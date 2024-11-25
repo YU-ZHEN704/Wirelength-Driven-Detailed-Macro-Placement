@@ -1,0 +1,1 @@
+Given a netlist and its layout, which includes available spaces and legal macro placements. Contestants must, under the given optimization objectives and placement constraints, fine-tune the positions or flip the orientations of movable macro components to find the optimal placement positions and orientations for all movable macro components.
